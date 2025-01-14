@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📫 Fun fact: 
   - 🔭 I used to do [Competitive Programming](https://codeforces.com/profile/Shogun3103).
   <!-- - ⚡ I'm shifting from Window to [NixOS](https://github.com/ra1nei/nixos-conf). -->
-  - 💎 I love Obsidian (and am learning how to use Anki).
-  - 🦜 I'm learning English (and will learn Japanese as soon as I'm confident with my English).
+  - 💎 I love Obsidian and Anki.
+  - 🦜 I'm learning English and Japanese.
 
 
 <p align="center">
